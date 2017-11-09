@@ -1,0 +1,6 @@
+Worked on loading MNIST Dataset applying clustering with K-Means Algorithm and applying various classification algorithms such as 
+Logistic Regression
+SVM
+Decision Tree
+KNeighbors Classifier
+Output of Results in terms of graphs is represented in Output folder
